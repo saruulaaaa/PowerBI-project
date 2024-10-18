@@ -20,3 +20,5 @@ segments – China and Japan are key Nutricosmetic markets accounting for 90% of
 USA dominates the Nutraceutical category at approximately 45%.
 
 ![image](https://github.com/user-attachments/assets/96e714de-21e1-4f06-823f-c68860c1b95c)
+Go to the dashboard : +https://github.com/saruulaaaa/PowerBI-project/blob/main/PowerBI%20project.pbix
+
