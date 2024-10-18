@@ -1,4 +1,5 @@
-#Self-Service Analytics Solution
+**Self-Service Analytics Solution**
+
 In the past two decades, the pharmaceutical, personal care, and nutritional industries have converged to 
 address growing demands in the beauty, health, and wellness market. This convergence has resulted in 
 the formation of the new industry segments – Nutraceuticals, Cosmeceuticals and Nutricosmetics. 
